@@ -1,4 +1,4 @@
-''' prints out the multoplication with wrong wrong index
+''' prints out the multiplications with wrong wrong index
     one function will write the multiplication table 
     second function will find which index is wrong'''
 
